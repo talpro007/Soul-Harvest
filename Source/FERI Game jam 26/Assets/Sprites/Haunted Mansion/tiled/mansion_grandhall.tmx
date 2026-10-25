@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" orientation="orthogonal" renderorder="right-down" width="30" height="17" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="79">
+ <tileset firstgid="1" source="haunted-mansion_tiles.tsx"/>
+ <tileset firstgid="337" source="haunted-mansion_props.tsx"/>
+ <layer id="1" name="ground" width="30" height="17"><data encoding="csv">
+145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,150,149,150,149,150,149,150,149,150,149,150,149,150,
+147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,152,151,152,151,152,151,152,151,152,151,152,151,152,
+145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,150,149,150,149,150,149,150,149,150,149,150,149,150,
+147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,152,151,152,151,152,151,152,151,152,151,152,151,152,
+145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,150,149,150,149,150,149,150,149,150,149,150,149,150,
+147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,152,151,152,151,152,151,152,151,152,151,152,151,152,
+145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,150,149,150,149,150,149,150,149,150,149,150,149,150,
+147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,
+145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,145,146,
+147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,147,148,
+153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,
+155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,
+153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,153,154,
+155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,155,156,
+173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,173,174,
+175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,175,176,
+181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182,181,182
+</data></layer>
+ <layer id="2" name="overlay" width="30" height="17"><data encoding="csv">
+303,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,304,
+0,0,0,0,0,0,0,0,0,0,0,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,309,0,0,0,310,0,0,0,0,0,0,0,0,0,0,0,0,0,209,0,0,0,0,0,0,210,0,0,
+0,0,219,0,0,0,219,0,0,0,0,0,0,217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,315,0,0,0,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,253,254,255,254,255,254,255,254,255,254,255,254,256,
+0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,311,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,212,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,215,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+253,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,255,254,256,
+0,0,0,0,0,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,303,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data></layer>
+ <layer id="3" name="overlay2" width="30" height="17"><data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,334,333,334,333,334,333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data></layer>
+ <objectgroup id="10" name="decor">
+  <object id="1" name="balustrade_0" gid="301" x="288" y="100" width="16" height="16"/>
+  <object id="2" name="balustrade_1" gid="302" x="304" y="100" width="16" height="16"/>
+  <object id="3" name="balustrade_0" gid="301" x="320" y="100" width="16" height="16"/>
+  <object id="4" name="balustrade_1" gid="302" x="336" y="100" width="16" height="16"/>
+  <object id="5" name="balustrade_0" gid="301" x="352" y="100" width="16" height="16"/>
+  <object id="6" name="balustrade_1" gid="302" x="368" y="100" width="16" height="16"/>
+  <object id="7" name="balustrade_0" gid="301" x="384" y="100" width="16" height="16"/>
+  <object id="8" name="balustrade_1" gid="302" x="400" y="100" width="16" height="16"/>
+  <object id="9" name="balustrade_0" gid="301" x="416" y="100" width="16" height="16"/>
+  <object id="10" name="balustrade_1" gid="302" x="432" y="100" width="16" height="16"/>
+  <object id="11" name="balustrade_0" gid="301" x="448" y="100" width="16" height="16"/>
+  <object id="12" name="balustrade_1" gid="302" x="464" y="100" width="16" height="16"/>
+  <object id="13" name="stairs_r" gid="246" x="256" y="116" width="16" height="16"/>
+  <object id="14" name="stairs_r" gid="246" x="240" y="132" width="16" height="16"/>
+  <object id="15" name="stairs_fill" gid="245" x="256" y="132" width="16" height="16"/>
+  <object id="16" name="column_t" gid="229" x="272" y="132" width="16" height="16"/>
+  <object id="17" name="stairs_r" gid="246" x="224" y="148" width="16" height="16"/>
+  <object id="18" name="stairs_fill" gid="245" x="240" y="148" width="16" height="16"/>
+  <object id="19" name="stairs_fill" gid="245" x="256" y="148" width="16" height="16"/>
+  <object id="20" name="column_m" gid="230" x="272" y="148" width="16" height="16"/>
+  <object id="21" name="stairs_r" gid="246" x="208" y="164" width="16" height="16"/>
+  <object id="22" name="stairs_fill" gid="245" x="224" y="164" width="16" height="16"/>
+  <object id="23" name="stairs_fill" gid="245" x="240" y="164" width="16" height="16"/>
+  <object id="24" name="stairs_fill" gid="245" x="256" y="164" width="16" height="16"/>
+  <object id="25" name="column_m" gid="230" x="272" y="164" width="16" height="16"/>
+  <object id="26" name="newel_t" gid="232" x="144" y="180" width="16" height="16"/>
+  <object id="27" name="stairs_r" gid="246" x="192" y="180" width="16" height="16"/>
+  <object id="28" name="stairs_fill" gid="245" x="208" y="180" width="16" height="16"/>
+  <object id="29" name="stairs_fill" gid="245" x="224" y="180" width="16" height="16"/>
+  <object id="30" name="stairs_fill" gid="245" x="240" y="180" width="16" height="16"/>
+  <object id="31" name="stairs_fill" gid="245" x="256" y="180" width="16" height="16"/>
+  <object id="32" name="column_m" gid="230" x="272" y="180" width="16" height="16"/>
+  <object id="33" name="newel_m" gid="233" x="144" y="196" width="16" height="16"/>
+  <object id="34" name="stairs_r" gid="246" x="176" y="196" width="16" height="16"/>
+  <object id="35" name="stairs_fill" gid="245" x="192" y="196" width="16" height="16"/>
+  <object id="36" name="stairs_fill" gid="245" x="208" y="196" width="16" height="16"/>
+  <object id="37" name="stairs_fill" gid="245" x="224" y="196" width="16" height="16"/>
+  <object id="38" name="stairs_fill" gid="245" x="240" y="196" width="16" height="16"/>
+  <object id="39" name="stairs_fill" gid="245" x="256" y="196" width="16" height="16"/>
+  <object id="40" name="column_m" gid="230" x="272" y="196" width="16" height="16"/>
+  <object id="41" name="dust_0" gid="313" x="16" y="212" width="16" height="16"/>
+  <object id="42" name="newel_b" gid="234" x="144" y="212" width="16" height="16"/>
+  <object id="43" name="stairs_r" gid="246" x="160" y="212" width="16" height="16"/>
+  <object id="44" name="stairs_fill" gid="245" x="176" y="212" width="16" height="16"/>
+  <object id="45" name="stairs_fill" gid="245" x="192" y="212" width="16" height="16"/>
+  <object id="46" name="stairs_fill" gid="245" x="208" y="212" width="16" height="16"/>
+  <object id="47" name="stairs_fill" gid="245" x="224" y="212" width="16" height="16"/>
+  <object id="48" name="stairs_fill" gid="245" x="240" y="212" width="16" height="16"/>
+  <object id="49" name="dust_1" gid="314" x="240" y="212" width="16" height="16"/>
+  <object id="50" name="stairs_fill" gid="245" x="256" y="212" width="16" height="16"/>
+  <object id="51" name="column_b" gid="231" x="272" y="212" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="4" name="props">
+  <object id="52" name="fireplace_cold" gid="358" x="352" y="213" width="56" height="60"/>
+  <object id="53" name="grandfather_clock" gid="363" x="12" y="213" width="20" height="60"/>
+  <object id="54" name="suit_of_armour" gid="383" x="124" y="213" width="24" height="54"/>
+  <object id="55" name="wingback_chair" gid="393" x="300" y="213" width="24" height="30"/>
+  <object id="56" name="potted_fern_dead" gid="373" x="436" y="213" width="20" height="30"/>
+  <object id="57" name="urn_vase" gid="387" x="462" y="213" width="14" height="24"/>
+  <object id="58" name="portrait_eyes" gid="417" x="372" y="60" width="24" height="30"/>
+  <object id="59" name="lightning_window" gid="414" x="62" y="76" width="20" height="36"/>
+  <object id="60" name="chandelier_fallen" gid="346" x="92" y="213" width="48" height="20"/>
+  <object id="61" name="bust_pedestal" gid="340" x="288" y="101" width="18" height="44"/>
+  <object id="62" name="candelabra_cold" gid="341" x="400" y="101" width="24" height="32"/>
+  <object id="63" name="birdcage_empty" gid="337" x="460" y="101" width="16" height="30"/>
+  <object id="64" name="black_cat" gid="397" x="258" y="213" width="18" height="18"/>
+  <object id="65" name="spider_drop" gid="422" x="208" y="32" width="12" height="32"/>
+  <object id="66" name="wine_rack" gid="392" x="32" y="260" width="34" height="34"/>
+  <object id="67" name="cask" gid="342" x="112" y="260" width="24" height="24"/>
+  <object id="68" name="cask" gid="342" x="142" y="260" width="24" height="24"/>
+  <object id="69" name="rat" gid="418" x="192" y="260" width="20" height="8"/>
+  <object id="70" name="chains_shackles" gid="343" x="416" y="260" width="20" height="34"/>
+  <object id="71" name="wall_sconce" gid="424" x="252" y="150" width="12" height="22"/>
+  <object id="72" name="wall_sconce" gid="424" x="462" y="150" width="12" height="22"/>
+ </objectgroup>
+ <objectgroup id="5" name="characters">
+  <object id="73" name="butler" type="npc" x="80" y="213"><properties><property name="sprite" value="../characters/butler_idle_strip.png"/><property name="facing" value="right"/></properties><point/></object>
+  <object id="74" name="maid" type="npc" x="246" y="213"><properties><property name="sprite" value="../characters/maid_idle_strip.png"/><property name="facing" value="left"/></properties><point/></object>
+  <object id="75" name="ghost_hunter" type="npc" x="192" y="213"><properties><property name="sprite" value="../characters/ghost_hunter_idle_strip.png"/><property name="facing" value="right"/></properties><point/></object>
+  <object id="76" name="count" type="npc" x="356" y="101"><properties><property name="sprite" value="../characters/count_idle_strip.png"/><property name="facing" value="left"/></properties><point/></object>
+  <object id="77" name="widow" type="npc" x="464" y="101"><properties><property name="sprite" value="../characters/widow_idle_strip.png"/><property name="facing" value="left"/></properties><point/></object>
+  <object id="78" name="lady_white" type="npc" x="228" y="162"><properties><property name="sprite" value="../characters/lady_white_idle_strip.png"/><property name="facing" value="left"/></properties><point/></object>
+ </objectgroup>
+</map>

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 29acb1d076eebb54a88e07554bd57776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4432657025948057495
+    second: haunted-mansion_tiles_32_0
+  - first:
+      213: -4406697372633758677
+    second: haunted-mansion_tiles_32_1
+  - first:
+      213: -5642060902384002300
+    second: haunted-mansion_tiles_32_2
+  - first:
+      213: -7434083078575066852
+    second: haunted-mansion_tiles_32_3
+  - first:
+      213: 6757926260533760740
+    second: haunted-mansion_tiles_32_4
+  - first:
+      213: 2471045701414471366
+    second: haunted-mansion_tiles_32_5
+  - first:
+      213: 5337848783814729535
+    second: haunted-mansion_tiles_32_6
+  - first:
+      213: -3422351988751097063
+    second: haunted-mansion_tiles_32_7
+  - first:
+      213: 2729632953169483968
+    second: haunted-mansion_tiles_32_8
+  - first:
+      213: -521926983585725751
+    second: haunted-mansion_tiles_32_9
+  - first:
+      213: 1302640758037276061
+    second: haunted-mansion_tiles_32_10
+  - first:
+      213: 160140112451309675
+    second: haunted-mansion_tiles_32_11
+  - first:
+      213: 5910100567368465187
+    second: haunted-mansion_tiles_32_12
+  - first:
+      213: 3511197940041940394
+    second: haunted-mansion_tiles_32_13
+  - first:
+      213: -1387767473710116682
+    second: haunted-mansion_tiles_32_14
+  - first:
+      213: 7285080578489616002
+    second: haunted-mansion_tiles_32_15
+  - first:
+      213: -1241446863474626208
+    second: haunted-mansion_tiles_32_16
+  - first:
+      213: 6904419180558275598
+    second: haunted-mansion_tiles_32_17
+  - first:
+      213: 371016811491056554
+    second: haunted-mansion_tiles_32_18
+  - first:
+      213: -3846847062672075889
+    second: haunted-mansion_tiles_32_19
+  - first:
+      213: 5846324233882824096
+    second: haunted-mansion_tiles_32_20
+  - first:
+      213: -3897571203382400266
+    second: haunted-mansion_tiles_32_21
+  - first:
+      213: -7514403237472043971
+    second: haunted-mansion_tiles_32_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 384
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff5c27416f38d30800000000000000
+      internalID: 4432657025948057495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 384
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248487561448d2c0800000000000000
+      internalID: -4406697372633758677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 129
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1840908f53b1b0800000000000000
+      internalID: -5642060902384002300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 384
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c117ac6d3d4d4d890800000000000000
+      internalID: -7434083078575066852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21661012af8cd50800000000000000
+      internalID: 6757926260533760740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c09829faea4220800000000000000
+      internalID: 2471045701414471366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f17001039d31a40800000000000000
+      internalID: 5337848783814729535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a326affc5180d0800000000000000
+      internalID: -3422351988751097063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81edc65ba91e520800000000000000
+      internalID: 2729632953169483968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c28ea87c2eb1c8f0800000000000000
+      internalID: -521926983585725751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 155
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e1c42ed8e31210800000000000000
+      internalID: 1302640758037276061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6093f4759ee83200800000000000000
+      internalID: 160140112451309675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf4d82725e40250800000000000000
+      internalID: 5910100567368465187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad78406ce74ab030800000000000000
+      internalID: 3511197940041940394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0daaad5d8adbce0800000000000000
+      internalID: -1387767473710116682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28688f8203ec91560800000000000000
+      internalID: 7285080578489616002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617217b7ae75cee0800000000000000
+      internalID: -1241446863474626208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d19dd9ac61df50800000000000000
+      internalID: 6904419180558275598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab5f9603dd162500800000000000000
+      internalID: 371016811491056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f831d2c5af04d9ac0800000000000000
+      internalID: -3846847062672075889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade7526ae0522150800000000000000
+      internalID: 5846324233882824096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faa99704ab09e9c0800000000000000
+      internalID: -3897571203382400266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haunted-mansion_tiles_32_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 66
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfe6b811a77b790800000000000000
+      internalID: -7514403237472043971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      haunted-mansion_tiles_32_0: 4432657025948057495
+      haunted-mansion_tiles_32_1: -4406697372633758677
+      haunted-mansion_tiles_32_10: 1302640758037276061
+      haunted-mansion_tiles_32_11: 160140112451309675
+      haunted-mansion_tiles_32_12: 5910100567368465187
+      haunted-mansion_tiles_32_13: 3511197940041940394
+      haunted-mansion_tiles_32_14: -1387767473710116682
+      haunted-mansion_tiles_32_15: 7285080578489616002
+      haunted-mansion_tiles_32_16: -1241446863474626208
+      haunted-mansion_tiles_32_17: 6904419180558275598
+      haunted-mansion_tiles_32_18: 371016811491056554
+      haunted-mansion_tiles_32_19: -3846847062672075889
+      haunted-mansion_tiles_32_2: -5642060902384002300
+      haunted-mansion_tiles_32_20: 5846324233882824096
+      haunted-mansion_tiles_32_21: -3897571203382400266
+      haunted-mansion_tiles_32_22: -7514403237472043971
+      haunted-mansion_tiles_32_3: -7434083078575066852
+      haunted-mansion_tiles_32_4: 6757926260533760740
+      haunted-mansion_tiles_32_5: 2471045701414471366
+      haunted-mansion_tiles_32_6: 5337848783814729535
+      haunted-mansion_tiles_32_7: -3422351988751097063
+      haunted-mansion_tiles_32_8: 2729632953169483968
+      haunted-mansion_tiles_32_9: -521926983585725751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

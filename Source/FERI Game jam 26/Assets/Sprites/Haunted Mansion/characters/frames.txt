@@ -1,0 +1,27 @@
+Characters face right; flip horizontally for left. Feet stand on the bottom 2 rows.
+
+name                     frames   size      speed
+lady_white_idle           8 frames  32x40 px  150 ms/frame
+lady_white_walk           8 frames  32x40 px  100 ms/frame
+butler_idle               8 frames  32x40 px  150 ms/frame
+butler_walk               8 frames  32x40 px  100 ms/frame
+maid_idle                 8 frames  32x40 px  150 ms/frame
+maid_walk                 8 frames  32x40 px  100 ms/frame
+widow_idle                8 frames  32x40 px  150 ms/frame
+widow_walk                8 frames  32x40 px  100 ms/frame
+ghost_hunter_idle         8 frames  32x40 px  150 ms/frame
+ghost_hunter_walk         8 frames  32x40 px  100 ms/frame
+medium_idle               8 frames  32x40 px  150 ms/frame
+medium_walk               8 frames  32x40 px  100 ms/frame
+count_idle                8 frames  32x40 px  150 ms/frame
+count_walk                8 frames  32x40 px  100 ms/frame
+skeleton_idle             8 frames  32x40 px  150 ms/frame
+skeleton_walk             8 frames  32x40 px  100 ms/frame
+witch_idle                8 frames  32x40 px  150 ms/frame
+witch_walk                8 frames  32x40 px  100 ms/frame
+orphan_idle               8 frames  32x40 px  150 ms/frame
+orphan_walk               8 frames  32x40 px  100 ms/frame
+groundskeeper_idle        8 frames  32x40 px  150 ms/frame
+groundskeeper_walk        8 frames  32x40 px  100 ms/frame
+occultist_idle            8 frames  32x40 px  150 ms/frame
+occultist_walk            8 frames  32x40 px  100 ms/frame
