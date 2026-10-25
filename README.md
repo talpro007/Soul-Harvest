@@ -25,11 +25,7 @@ Q/B - Heal
 
 
 
-**Documentation \& video:**
+**Documentation:**
 
 located in Documentation/
-
-
-
-
 
